@@ -1,11 +1,10 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+The real deal! This project will eventually replace Avignon, with all the functionality implemented and everything working.
+(starting from scratch, work in progress...)
 
 * Ruby version
+1.9.3
 
 * System dependencies
 
