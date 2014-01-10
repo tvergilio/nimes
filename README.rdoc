@@ -18,6 +18,7 @@ The real deal! This project will eventually replace Avignon, with all the functi
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+	deployed to http://young-bastion-3929.herokuapp.com/
 
 * ...
 
